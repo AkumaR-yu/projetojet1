@@ -1,0 +1,22 @@
+*{
+    padding: 2;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.item {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+img{width: 40vw;
+}
+
+main{
+    display: flex;
+}
